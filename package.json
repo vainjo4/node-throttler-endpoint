@@ -1,0 +1,16 @@
+{
+  "name": "smartly lib & api",
+  "version": "0.0.1",
+  "main": "aggregation_endpoint.js",
+  "scripts": {
+    "start": "node aggregation_endpoint.js"
+  },
+  "dependencies": {
+	"ejs": "~1.0.0",
+    "express": "~4.10.1",
+	"request":"~2.47.0",
+	"q":"~1.0.1",
+	"body-parser" :"~1.9.2",
+	"mysql" : "~2.5.3"
+  }
+}
